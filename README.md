@@ -1,2 +1,2 @@
 # hello-world
-Sample Repository
+This is Sample Repository to test out some of the GitHub Functionality
